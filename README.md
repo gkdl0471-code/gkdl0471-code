@@ -2,35 +2,17 @@
 
 ## 🌼 Hello, I'm Liring!  
 감성과 디자인을 사랑하는,  
-**프론트엔드 개발자로 성장 중인 김소연(리링)** 입니다.
+**프론트엔드 개발자로 성장 중인 김소연** 입니다.
 
 OZ 프론트엔드 부트캠프 15기를 통해  
 매일 조금씩, 꾸준히, 예쁘게 성장하고 있어요 🌿  
 
 ---
 
-# ✨ Skills I’ve Learned So Far  
-지금까지 배워온 스택들이에요!
+# ✨ Skills 
 
-### 💛 Frontend  
-- **HTML5 · CSS3** (레이아웃 · Flex · Grid · 반응형)  
-- **JavaScript(ES6+)**  
-- **React** (Components, Props, State, Hooks, Router)  
-- **Redux** (기초 상태관리 흐름)
 
-### 🛠 Backend / Tools  
-- **Node.js**  
-- Git & GitHub,  
-- Vite / CRA  
-- VSCode · Figma  
 
----
-
-# 🌱 I’m Currently Learning  
-- React Hooks 심화  
-- Custom Hooks (useFetch, useLocalStorage 등)  
-- 컴포넌트 구조 설계 / UI 상태 관리  
-- 더 깔끔한 코드와 상태 흐름 만들기
 
 ---
 
@@ -51,8 +33,8 @@ OZ 프론트엔드 부트캠프 15기를 통해
 # 🧩 Featured Projects  
 
 ### 📱 iPhone-style Calculator  
-> HTML/CSS/JS 기반 인터랙티브 계산기  
-- 애니메이션 · 클릭 효과 · 반복 계산 로직 구현  
+> HTML/CSS/JS 기반 계산기  
+- 스마트폰 디자인의 **배경 잠금화면 해제 -> 바탕화면에서 계산기 아이콘 클릭 -> 아이폰 계산기 디자인** 구현
 🔗 Demo / Repo: (추가 예정)
 
 ---
