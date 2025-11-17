@@ -31,56 +31,46 @@ OZ 프론트엔드 부트캠프 15기를 통해
 .
 .
 
-  
+  .
 
 ---
 
-  
+  .
 
 # 🧩 Featured Projects  
 
-  
+  .
 
 ### 📱 iPhone-style Calculator  
 > HTML/CSS/JS 기반 계산기  
 - 스마트폰 디자인의 **배경 잠금화면 해제 -> 바탕화면에서 계산기 아이콘 클릭 -> 아이폰 계산기 디자인** 구현
-🔗 Demo / Repo: https://github.com/gkdl0471-code/oz.git
+- 🔗 Repo: https://github.com/gkdl0471-code/oz.git
 
-  
+  .
 
 ---
 
-  
+  .
 
 ### 🐣 React Todo List  
-> useState · useEffect · Custom Hooks 기반  
-- CRUD 구현 · 컴포넌트 구조화 · 상태관리 실습  
-🔗 Repo: (여기에 링크)
+> useState · useEffect · Custom Hooks + API Fetch  기반  
+- CRUD 구현 · 컴포넌트 구조화 · 상태관리 실습
+- useEffect 활용 · 랜덤 명언 렌더링
+- 🔗 Repo: https://github.com/gkdl0471-code/Todo-List-App.git
 
-  
+  .
 
----
-
-  
-
-### ✨ Random Quote Card  
-> API Fetch + 카드 UI 애니메이션  
-- useEffect 활용 · 랜덤 명언 렌더링  
-🔗 Repo: (추가)
-
-  
 
 ---
 
-  
+  .
 
 # 🌙 About Me  
 > “조금씩, 꾸준히, 예쁘게 성장하는 중입니다.”  
-프론트엔드 개발자로서  
-사용자 경험을 중요하게 생각하며,  
+프론트엔드 개발자로서 사용자 경험을 중요하게 생각하며,  
 감성과 기술의 균형을 맞춘 웹을 만들고 싶어요.
 
-  
+  .
 
 ---
 
