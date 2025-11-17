@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/YbvFpy7.gif" />
+<img src="https://i.imgur.com/Wy0F0fL.gif" />
 
 ## 🌼 Hello, I'm Liring!  
 감성과 디자인을 사랑하는,  
