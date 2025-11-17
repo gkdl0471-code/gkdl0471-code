@@ -1,31 +1,82 @@
 <img src="https://i.imgur.com/UnRdDnQ.png" />
 
-## 🌼 Hello, I'm so-yeon!  
-✨ 매일 조금씩 성장하는 프론트엔드 개발자 지망생  
-🌿 디자인 감성 + 개발 논리의 밸런스를 추구해요  
+## 🌼 Hello, I'm Liring!  
+감성과 디자인을 사랑하는,  
+**프론트엔드 개발자로 성장 중인 김소연(리링)** 입니다.
+
+OZ 프론트엔드 부트캠프 15기를 통해  
+매일 조금씩, 꾸준히, 예쁘게 성장하고 있어요 🌿  
 
 ---
 
-## 🌸 Skills I’m Growing  
-🌱 **React · JavaScript**  
-🎨 UI/UX 디자인, 컴포넌트 아키텍처  
-📦 GitHub · Vite · TailwindCSS  
+# ✨ Skills I’ve Learned So Far  
+지금까지 배워온 스택들이에요!
+
+### 💛 Frontend  
+- **HTML5 · CSS3** (레이아웃 · Flex · Grid · 반응형)  
+- **JavaScript(ES6+)**  
+- **React** (Components, Props, State, Hooks, Router)  
+- **Redux** (기초 상태관리 흐름)
+
+### 🛠 Backend / Tools  
+- **Node.js**  
+- Git & GitHub,  
+- Vite / CRA  
+- VSCode · Figma  
 
 ---
 
-## 📝 Recent Projects  
-- 🐣 **React Todo List** – 상태 관리 연습  
-- 🎨 **iPhone Calculator** – UI 애니메이션 & 로직 완성형  
-- ✨ **Random Quote Card** – API fetch + 카드 UI  
+# 🌱 I’m Currently Learning  
+- React Hooks 심화  
+- Custom Hooks (useFetch, useLocalStorage 등)  
+- 컴포넌트 구조 설계 / UI 상태 관리  
+- 더 깔끔한 코드와 상태 흐름 만들기
 
 ---
 
-## 🌙 My Journey  
+# 🎯 Skills I Plan to Learn  
+앞으로 배울 예정 기술들도 미리 정리했어요!
+
+- **TypeScript**  
+- **Redux Toolkit / Zustand / Recoil**  
+- **Next.js**  
+- **Styled-components / TailwindCSS**  
+- **API 서버 구성 (Express)**  
+- **데이터베이스 (MongoDB/MySQL 기초)**  
+- **배포 (Vercel / Netlify)**  
+- **UI 애니메이션 (Framer Motion)**  
+
+---
+
+# 🧩 Featured Projects  
+
+### 📱 iPhone-style Calculator  
+> HTML/CSS/JS 기반 인터랙티브 계산기  
+- 애니메이션 · 클릭 효과 · 반복 계산 로직 구현  
+🔗 Demo / Repo: (추가 예정)
+
+---
+
+### 🐣 React Todo List  
+> useState · useEffect · Custom Hooks 기반  
+- CRUD 구현 · 컴포넌트 구조화 · 상태관리 실습  
+🔗 Repo: (여기에 링크)
+
+---
+
+### ✨ Random Quote Card  
+> API Fetch + 카드 UI 애니메이션  
+- useEffect 활용 · 랜덤 명언 렌더링  
+🔗 Repo: (추가)
+
+---
+
+# 🌙 About Me  
 > “조금씩, 꾸준히, 예쁘게 성장하는 중입니다.”  
+프론트엔드 개발자로서  
+사용자 경험을 중요하게 생각하며,  
+감성과 기술의 균형을 맞춘 웹을 만들고 싶어요.
 
 ---
-
-## ☕ Contact  
-Blog · GitHub · Email  
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=E9C6FF&height=120&section=footer" />
