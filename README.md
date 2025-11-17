@@ -55,7 +55,7 @@ OZ 프론트엔드 부트캠프 15기를 통해
 ### 🐣 React Todo List  
 > useState · useEffect · Custom Hooks + API Fetch  기반  
 - CRUD 구현 · 컴포넌트 구조화 · 상태관리 실습
-- useEffect 활용 · 랜덤 명언 렌더링
+- useEffect 활용 · 랜덤 명언 렌더링, 타이머 구현
 - 🔗 Repo: https://github.com/gkdl0471-code/Todo-List-App.git
 
   .
