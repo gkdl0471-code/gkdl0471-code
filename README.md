@@ -43,7 +43,7 @@ OZ 프론트엔드 부트캠프 15기를 통해
 ### 📱 iPhone-style Calculator  
 > HTML/CSS/JS 기반 계산기  
 - 스마트폰 디자인의 **배경 잠금화면 해제 -> 바탕화면에서 계산기 아이콘 클릭 -> -> 커서 깜빡임 & 아이폰 계산기 디자인** 구현
-- 🔗 Repo: [https://github.com/gkdl0471-code/oz.git](https://github.com/gkdl0471-code/oz_js_mini/tree/main)
+- 🔗 Repo: [https://github.com/gkdl0471-code/oz_js_mini.git](https://github.com/gkdl0471-code/oz_js_mini/tree/main)
 
   .
 
