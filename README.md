@@ -28,6 +28,3 @@ OZ 프론트엔드 부트캠프 15기를 통해 매일 조금씩, 꾸준히, 예
 
 
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=E9C6FF&height=160&section=footer" />
